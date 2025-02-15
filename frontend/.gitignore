@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-node_modules
 /.pnp
 .pnp.js
 
@@ -28,15 +27,7 @@ financial-planner/backend/node_modules
 financial-planner/backend/.env
 financial-planner/backend/logs/
 
-/financial-planner/backend/node_modules
-/financial-planner/backend/.env
-/financial-planner/backend/logs/
-
 # Frontend-specific
 financial-planner/frontend/node_modules
 financial-planner/frontend/.env
 financial-planner/frontend/build/
-
-/financial-planner/frontend/node_modules
-/financial-planner/frontend/.env
-/financial-planner/frontend/build/
